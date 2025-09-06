@@ -23,11 +23,6 @@ The app not only provides real-time weather updates but also features a dynamic 
 
 ### Backend / API: Weather API 
 
-## 📸 Screenshots
-
-![☀️ Clear Weather]([assets/ss2.jpg](https://github.com/paulnilormi/Weather-App-using-Weather-API/blob/main/Screenshot%202025-09-06%20124654.png))  
-
-![☁️ Cloudy Weather]([assets/ss1.jpg](https://github.com/paulnilormi/Weather-App-using-Weather-API/blob/main/Screenshot%202025-09-06%20124713.png))  
 
 ## ⚡ How to Use
 
