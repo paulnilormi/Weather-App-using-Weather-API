@@ -27,7 +27,7 @@ Backend / API: Weather API
 
 ![☀️ Clear Weather]([assets/ss2.jpg](https://github.com/paulnilormi/Weather-App-using-Weather-API/blob/main/Screenshot%202025-09-06%20124654.png))  
 
-![☁️ Cloudy Weather](assets/ss1.jpg)  
+![☁️ Cloudy Weather]([assets/ss1.jpg](https://github.com/paulnilormi/Weather-App-using-Weather-API/blob/main/Screenshot%202025-09-06%20124713.png))  
 
 ⚡ How to Use
 
